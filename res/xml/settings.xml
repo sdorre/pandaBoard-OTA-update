@@ -8,7 +8,7 @@
 			
 		<EditTextPreference
 			android:key="preference_server_hostname"
-			android:defaultValue="http://0.0.0.0"
+			android:defaultValue="0.0.0.0"
 			android:title="Server Address"
 			android:summary="The server hostname or ip address"
 			android:inputType="textUri" />
